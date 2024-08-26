@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fundamentals of Android</string>
+    <string name="big_bite">Big Bite</string>
+    <string name="location">Warri</string>
+    <string name="order">Order Take Away</string>
+    <string name="description">We are a family owned exquisite restaurant, serving you both local and international delicacies</string>
+    <string name="image_description">An image of a special delicacy</string>
+</resources>
